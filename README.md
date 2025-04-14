@@ -7,6 +7,7 @@
 <img src='https://image.shutterstock.com/image-vector/logo-vector-html-5-low-260nw-1601607721.jpg' height='60px' alt=''>
 <img src='https://image.shutterstock.com/image-vector/logo-vector-css-3-low-260nw-1902943426.jpg' height='60px' alt=''>
 <img src='https://image.shutterstock.com/image-vector/node-vector-logo-backend-programming-260nw-1597753591.jpg' height='60px' alt=''>
+<img src='https://tse4.mm.bing.net/th?id=OIP.D1gvhsEUvjffVQ6sh793PQHaF5&pid=Api&P=0&h=180' height='60px' alt=''> 
 <img src='https://tse3.mm.bing.net/th?id=OIP.xCyfSx5WPvuXGEK3sgTvMAHaHa&pid=Api&P=0&h=180' height='80px' alt=''> 
 </div>
 
