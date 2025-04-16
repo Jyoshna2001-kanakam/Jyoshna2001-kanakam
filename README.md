@@ -41,10 +41,9 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoshna2001-kanakam&show_icons=true&locale=en&layout=compact" alt="jyoshna2001-kanakam" /></p>
-<img src='https://camo.githubusercontent.com/417eb0441e2e632d497f8bccca6845a75f5974743a8ae1f8fbe64b794a0e53dc/68747470733a2f2f692e696d67666c69702e636f6d2f363565667a6f2e676966' width='200px' height='200px' alt='animation' align='right'>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoshna2001-kanakam&show_icons=true&locale=en" alt="jyoshna2001-kanakam" /></p>
-
+<img src='https://camo.githubusercontent.com/417eb0441e2e632d497f8bccca6845a75f5974743a8ae1f8fbe64b794a0e53dc/68747470733a2f2f692e696d67666c69702e636f6d2f363565667a6f2e676966' width='200px' height='200px' alt='animation' align='right'>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyoshna2001-kanakam&" alt="jyoshna2001-kanakam" /></p>
