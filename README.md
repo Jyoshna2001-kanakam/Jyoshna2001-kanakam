@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jyoshna</h1>
-<h3 align="center">A passionate full stack developer from India. I do enjoy working with Technologies like Django, python, HTML, CSS,JS . Take a look at my repositories - some of my best works are pinned here...</h3>
+<h3 align="center">A passionate full stack developer from India. I do enjoy working with Technologies like Django, python, HTML, CSS,JS . Take a look at my repositories - some of my best works are pinned here...!</h3>
 
 <img src='https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966' alt=''>
 
